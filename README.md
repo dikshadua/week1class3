@@ -3,14 +3,16 @@
 
 ## **What is the background of your company? What do they do? Who are their competitors?**
 
+They are a neo bank
+
 The company background is ------------
 ---
 Competitors are -------
 ---
 
 
-
-
 ## **How does this company use technology to their advantage? Why are they considered a FinTech company?**
+
+
 
 
